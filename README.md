@@ -2,6 +2,7 @@
 - 👀 I’m interested in QA
 - 🌱 I’m currently learning QA Automation
 - 📫 How to reach me mhovsepyan388@gmail.com
+- or by number 
 
 <!---
 MariamHovsepyan/MariamHovsepyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
